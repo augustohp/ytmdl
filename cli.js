@@ -1,7 +1,7 @@
 const { docopt } = require('docopt')
 
 const { version } = require('./package')
-const ytmdl = require('./')
+const ytmdl = require('./index.js')
 
 const doc = `
 Usage: ytmdl <url>

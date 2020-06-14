@@ -26,7 +26,8 @@
     "url": "https://github.com/valeriangalliat/ytmdl.git"
   },
   "scripts": {
-    "lint": "standard"
+    "lint": "standard",
+    "test": "./ytmdl https://music.youtube.com/playlist?list=PLETH_tJG9kpkfLHFskL-0i0jCBLH8MPSt"
   },
   "dependencies": {
     "@magicdawn/ascii-progress": "^1.0.8",
