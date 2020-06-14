@@ -1,4 +1,4 @@
-const ProgressBar = require('ascii-progress')
+const ProgressBar = require('@magicdawn/ascii-progress')
 
 const barDefaults = {
   width: 20,
